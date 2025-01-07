@@ -1,1 +1,1 @@
-# AIDQA-AI-documentation-Query-Assistant-
+# AIDQA (AI-Documentation-Query-Assistant)
